@@ -1,0 +1,9 @@
+﻿  Timber.cpp
+c:\code\tileeditor\project(1)\project1\timber.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\code\tileeditor\project(1)\project1\timber.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\code\tileeditor\project(1)\project1\timber.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\code\tileeditor\project(1)\project1\timber.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\code\tileeditor\project(1)\project1\timber.cpp(84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\code\tileeditor\project(1)\project1\timber.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\code\TileEditor\Project(1)\Debug\Project1.exe
+  Project1.vcxproj -> C:\code\TileEditor\Project(1)\Debug\Project1.pdb (Full PDB)
